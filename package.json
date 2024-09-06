@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@babbage/sdk-ts": "^0.2.51",
+    "hello-tokens": "^0.1.7"
+  }
+}
