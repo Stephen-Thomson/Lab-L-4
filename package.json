@@ -1,6 +1,8 @@
 {
+  "type": "module",
   "dependencies": {
     "@babbage/sdk-ts": "^0.2.51",
-    "hello-tokens": "^0.1.7"
+    "cwi-base": "^0.4.46",
+    "hello-tokens": "^0.1.4"
   }
 }
